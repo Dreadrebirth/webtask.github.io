@@ -95,7 +95,7 @@ header {
            .banner{
            min-height: 50vh;
            width: 100%;
-           background-image: url("../proj/images/shelter-training-115895910-resized-56a26a8d3df78cf772755f29.jpg");;
+           background-image: url("images/shelter-training-115895910-resized-56a26a8d3df78cf772755f29.jpg");;
            background-size: cover; 
            background-attachment:fixed;
            }
@@ -232,19 +232,19 @@ border-radius: 5px 5px 0 0;
 }
 .programs .boxContainer .box:nth-child(1) .cardImage,
 .programs .boxContainer .box:nth-child(1) .cardImage:after {
-    background-image: url("../proj/images/1.jpg");
+    background-image: url("images/1.jpg");
 }
 .programs .boxContainer .box:nth-child(2) .cardImage,
 .programs .boxContainer .box:nth-child(2) .cardImage:after {
-    background-image: url("../proj/images/2.jpg");
+    background-image: url("images/2.jpg");
 }
 .programs .boxContainer .box:nth-child(3) .cardImage,
 .programs .boxContainer .box:nth-child(3) .cardImage:after {
-    background-image: url("../proj/images/3.jpg");
+    background-image: url("images/3.jpg");
 }
 .programs .boxContainer .box:nth-child(4) .cardImage,
 .programs .boxContainer .box:nth-child(4) .cardImage:after {
-    background-image: url("../proj/images/4.jpg");
+    background-image: url("images/4.jpg");
 }
 .programs .boxContainer .box:hover .cardImage:after {
 top: 100%;
